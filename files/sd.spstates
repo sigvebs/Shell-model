@@ -1,0 +1,14 @@
+12         ! number of single-particle states
+1     1     0      1     -1      !   index   nrnodes     l        2xj         2xjz
+2     1     0      1      1
+3     0     2      3     -3
+4     0     2      3     -1
+5     0     2      3      1
+6     0     2      3      3
+7     0     2      5     -5
+8     0     2      5     -3
+9     0     2      5     -1
+10    0     2      5      1
+11    0     2      5      3
+12    0     2      5      5
+
